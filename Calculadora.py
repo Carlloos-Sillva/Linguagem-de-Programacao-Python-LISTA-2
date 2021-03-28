@@ -28,4 +28,4 @@ while operacao != "sair":
         resultado = "Operador não valido. Utilizar apenas SOMA, SUB, MULT, DIV ou SAIR. "
 
     print(resultado, ' -  Resultado dessa operação')
-print(" Fim do programa")
+print("Fim do programa")
